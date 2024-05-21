@@ -1,6 +1,6 @@
-# to_do_app
+# Static Todo App
 
-A new Flutter project.
+This project gives an introduction to working with flutter in general
 
 ## Getting Started
 
